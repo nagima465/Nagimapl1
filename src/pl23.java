@@ -7,9 +7,10 @@ public class pl23 {
         int a = sc.nextInt();
         int b = sc.nextInt();
 
-        if (a > b)
+        if (a > b) {
             System.out.println(a);
-        else
+        } else {
             System.out.println(b);
+        }
     }
 }
